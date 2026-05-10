@@ -38,13 +38,13 @@ SHAP analysis shows:
 - Transaction amount is a key driver
 - Graph features (PageRank, degree) significantly impact fraud prediction
 
-![SHAP](images/shap_summary.png)
+![SHAP](imagess/shap_summary.png)
 
 ---
 
 ## 📈 PR Curve
 
-![PR Curve](images/pr_curve.png)
+![PR Curve](imagess/pr_curve-3.png)
 
 ---
 
